@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Emerson Dantas no NLW Setup da Rocketseat(https://discord.gg/rocketseat)
+Feito by Emerson Dantas in NLW Setup feat Rocketseat
